@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0F172A"></rect>
+  
+  <!-- Tooth outline -->
+  <path d="M32 10
+           C22 10 16 16 16 24
+           C16 36 22 50 28 50
+           C30 50 30 42 32 42
+           C34 42 34 50 36 50
+           C42 50 48 36 48 24
+           C48 16 42 10 32 10Z" fill="none" stroke="#14B8A6" stroke-width="2.5"></path>
+
+  <!-- Initials -->
+  <text x="32" y="34" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#14B8A6" font-weight="bold">
+        MU
+  </text>
+</svg>
